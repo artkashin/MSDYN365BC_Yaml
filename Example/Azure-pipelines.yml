@@ -21,7 +21,7 @@ resources:
   repositories:
   - repository: MSDYN365BC_Yaml
     type: github
-    name: kine/MSDYN365BC_Yaml
+    name: artkashin/MSDYN365BC_Yaml
     ref: 'refs/heads/master'
     endpoint: GitHub
   - repository: self
